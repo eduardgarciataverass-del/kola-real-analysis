@@ -1,5 +1,5 @@
 # 🥤 Proyecto Kola Real | Kola Real Project
-![Dashboard Kola Real](SQL/captura.png)
+![Dashboard Kola Real](captura.png)
 
 📊 Descripción del Dashboard
 Este panel de control permite visualizar métricas clave de desempeño comercial, incluyendo:
