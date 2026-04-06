@@ -1,5 +1,13 @@
 # 🥤 Proyecto Kola Real | Kola Real Project
+![Dashboard Kola Real](SQL/datossssss.png)
+📊 Descripción del Dashboard
+Este panel de control permite visualizar métricas clave de desempeño comercial, incluyendo:
 
+Market Share: Participación por regiones en República Dominicana.
+
+Análisis de Canales: Comparativa de volumen de ventas entre canales tradicionales y modernos.
+
+Tecnologías: Desarrollado con Power BI y consultas avanzadas en PostgreSQL.
 ## Monitoreo de Canales y Desempeño Comercial
 ## Sales Channel Monitoring and Commercial Performance
 
